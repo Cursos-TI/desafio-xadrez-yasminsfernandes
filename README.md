@@ -51,6 +51,3 @@ O código em `xadrez.c` está organizado da seguinte forma:
 * Não há validação de entrada de usuário.
 * A lógica de movimentação de cada peça é implementada individualmente.
 
-## Contribuição
-
-Contribuições para melhorar o código ou adicionar novas funcionalidades são bem-vindas. Sinta-se à vontade para abrir pull requests ou relatar problemas.
